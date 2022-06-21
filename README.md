@@ -13,5 +13,5 @@ This challenge used a CSV containing more than 34,000 organizations that have re
 * [Atomic:] There are 2 Jupyter notebook files AlphabetSoupCharity and AlphabetSoupCharity -  
             Optimization that have been created for the model.
 
-## Summary  
-* [Atomic:] 
+## Summary  Accuracy Achieved
+* [Atomic:] The model received an accuracy of 73% (https://github.com/lykkelig/Neural_Network_Charity_Analysis/blob/main/Accuracy.png)
